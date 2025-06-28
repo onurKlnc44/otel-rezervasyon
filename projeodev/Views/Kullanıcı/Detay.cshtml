@@ -1,0 +1,96 @@
+﻿@using projeodev.Models
+@model IQueryable<Rezervasyon>
+
+<style>
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		margin-top: 20px;
+	}
+
+	th, td {
+		border: 1px solid #ddd;
+		padding: 12px;
+		text-align: center;
+	}
+
+	th {
+		background-color: #f2f2f2;
+		font-weight: bold;
+	}
+
+	tr:nth-child(even) {
+		background-color: #f9f9f9;
+	}
+
+	tr:hover {
+		background-color: #f1f1f1;
+	}
+
+	.btn-danger {
+		background-color: #dc3545;
+		color: white;
+		padding: 8px 16px;
+		border: none;
+		border-radius: 4px;
+		cursor: pointer;
+		
+	}
+
+		.btn-danger:hover {
+			background-color: #c82333;
+			transition: background-color 2s;
+		}
+
+	h6 {
+		color: red;
+		font-size: 16px;
+		text-decoration: dashed;
+		font-weight: 600px;
+
+	}
+</style>
+
+@if (!Model.Any())
+{
+	<h1>Daha Önceden Yaptığınız Bir Rezervasyon Yok</h1>
+}
+else
+{
+	<table>
+		<tr>
+			<th>Oda Numarası</th>
+			<th>Oda İsmi</th>
+			<th>Rezervasyon Başlangıç Tarihi</th>
+			<th>Rezervasyon Bitiş Tarihi</th>
+			<th>İşlem</th>
+		</tr>
+
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@(item.oda?.Odano ?? "Bilinmiyor")</td>
+				<td>@(item.oda?.Odaismi ?? "Bilinmiyor")</td>
+				<td>@(item.BaslangıcTarih.ToShortDateString() ?? "Bilinmiyor")</td>
+				<td>@(item.BitisTarih.ToShortDateString() ?? "Bilinmiyor")</td>
+				<td>
+					@if (item.BaslangıcTarih <= DateTime.Now)
+					{
+						<h6>Rezervasyon Tarihi Geçti / İptal Edilemez</h6>
+					}
+					else
+					{
+						<div style="display: flex; gap: 10px; align-items: center; justify-content: center; width: 100%; margin-top: 20px;">
+							<form asp-action="RezervasyonIptal" asp-controller="detay" method="post">
+								<input type="hidden" name="rezervasyonId" value="@item.Id" />
+								<button type="submit" class="btn btn-danger">İptal Et</button>
+							</form>
+							<a asp-action="RezervasyonGuncelle" asp-controller="detay" asp-route-id="@item.Id" class="btn btn-success">Güncelle</a>
+						</div>
+					}
+				</td>
+			</tr>
+		}
+	</table>
+
+}

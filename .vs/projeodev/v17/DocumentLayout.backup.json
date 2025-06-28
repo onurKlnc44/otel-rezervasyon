@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Onurb\\OneDrive\\Desktop\\mvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\Detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Migrations\\DataContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Migrations\\20250111150710_tablolar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\SessionHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Rezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Resimler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Oda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Kullan\u0131c\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Detay\\DetaySayfa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\ViewModels\\indexVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\Kullan\u0131c\u0131Controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\GirisYap.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Detay\\RezervasyonGuncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\DetayController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:38:10.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250111150710_tablolar.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Migrations\\20250111150710_tablolar.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Migrations\\20250111150710_tablolar.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Migrations\\20250111150710_tablolar.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Migrations\\20250111150710_tablolar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:38:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\DataContext.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Models\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\DataContext.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Models\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:24.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Models\\SessionHelper.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\SessionHelper.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Models\\SessionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:16.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Rezervasyon.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Models\\Rezervasyon.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Rezervasyon.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Models\\Rezervasyon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:12.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resimler.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Resimler.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Models\\Resimler.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Resimler.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Models\\Resimler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:10.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Oda.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Oda.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Models\\Oda.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Oda.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Models\\Oda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:09.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kullan\u0131c\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Kullan\u0131c\u0131.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Models\\Kullan\u0131c\u0131.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Models\\Kullan\u0131c\u0131.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Models\\Kullan\u0131c\u0131.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:24:05.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\appsettings.json",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\appsettings.json",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-08T07:29:21.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetaySayfa.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Detay\\DetaySayfa.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\Detay\\DetaySayfa.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Detay\\DetaySayfa.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\Detay\\DetaySayfa.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T07:24:13.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "indexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\ViewModels\\indexVM.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\ViewModels\\indexVM.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\ViewModels\\indexVM.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\ViewModels\\indexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:23:54.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Kullan\u0131c\u0131Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\Kullan\u0131c\u0131Controller.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Controllers\\Kullan\u0131c\u0131Controller.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\Kullan\u0131c\u0131Controller.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Controllers\\Kullan\u0131c\u0131Controller.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:23:43.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:23:36.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAHkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:33:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:33:33.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T19:33:31.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T09:28:02.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GirisYap.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\GirisYap.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\GirisYap.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\GirisYap.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\GirisYap.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T09:27:57.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RezervasyonGuncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Detay\\RezervasyonGuncelle.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\Detay\\RezervasyonGuncelle.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Detay\\RezervasyonGuncelle.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\Detay\\RezervasyonGuncelle.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T09:12:24.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\Detay.cshtml",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\Detay.cshtml",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\Detay.cshtml",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Views\\Kullan\u0131c\u0131\\Detay.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T08:50:39.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetayController.cs",
+              "DocumentMoniker": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\DetayController.cs",
+              "RelativeDocumentMoniker": "..\\projeodev\\projeodev\\Controllers\\DetayController.cs",
+              "ToolTip": "C:\\Users\\Onurb\\OneDrive\\Desktop\\projeodev\\projeodev\\Controllers\\DetayController.cs",
+              "RelativeToolTip": "..\\projeodev\\projeodev\\Controllers\\DetayController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwC4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T12:41:21.857Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

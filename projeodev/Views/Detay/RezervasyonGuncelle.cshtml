@@ -1,0 +1,93 @@
+﻿<style>
+    .alert {
+        padding: 10px;
+        background-color: #28a745;
+        color: white;
+        border-radius: 5px;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+
+   
+
+    .containerr {
+        max-width: 500px;
+        margin: 50px auto;
+        background: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        font-weight: bold;
+        color: #333;
+    }
+
+    .brand {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .inputt {
+        width: 100%;
+        padding: 10px;
+        margin-top: 5px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+        input:disabled {
+            background: #e9ecef;
+        }
+
+    .button {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+        margin-top: 20px;
+        background: #007bff;
+        border: none;
+        border-radius: 5px;
+        transition: 0.3s;
+        color:white;
+    }
+
+      .button:hover {
+            background: #0056b3;
+      }
+
+  
+
+</style>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<div class="containerr">
+    <h2>Rezervasyon Güncelle</h2>
+
+    <form asp-action="RezervasyonGuncelleKaydet" asp-controller="Detay" method="post">
+        <input class="inputt" type="hidden" name="Id" value="@Model.Id" />
+
+        <label class="brand">Oda Numarası:</label>
+        <input class="inputt" type="text" value="@Model.oda.Odano" disabled />
+
+        <label class="brand">Oda İsmi:</label>
+        <input class="inputt" type="text" value="@Model.oda.Odaismi" disabled />
+
+        <label class="brand">Rezervasyon Başlangıç Tarihi:</label>
+        <input class="inputt" type="date" name="BaslangicTarih" value="@Model.BaslangıcTarih.ToString("yyyy-MM-dd")" required />
+
+        <label class="brand">Rezervasyon Bitiş Tarihi:</label>
+        <input class="inputt" type="date" name="BitisTarih" value="@Model.BitisTarih.ToString("yyyy-MM-dd")" required />
+
+        <button type="submit" class="btn button">Güncelle</button>
+    </form>
+</div>
