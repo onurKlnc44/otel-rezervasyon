@@ -40,7 +40,7 @@ Bu proje, bir otel sitesi için geliştirilmiş rezervasyon sistemidir. Kullanı
 ![Odalar](./assets/odalar.png)
 
 ### Onay Mesajı
-![Onay Mesajı](./assets/onay_mesaji.png)
+![Onay Mesajı](./assets/onay_mesajı.png)
 
 ### Profil
 ![Profil](./assets/profil.png)
