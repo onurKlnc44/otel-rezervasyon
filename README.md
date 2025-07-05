@@ -18,6 +18,34 @@ Bu proje, bir otel sitesi için geliştirilmiş rezervasyon sistemidir. Kullanı
 - SQL Server
 - HTML / CSS / Bootstrap
 
+
+## 📸 Ekran Görüntüleri
+
+### Ana Sayfa
+![Ana Sayfa](./assets/anasayfa.png)
+
+### Veritabanı
+![Veritabanı](./assets/veritabanı.png)
+
+### Güncelleme
+![Güncelleme](./assets/guncelleme.png)
+
+### Login
+![Login](./assets/login.png)
+
+### Oda Detay
+![Oda Detay](./assets/oda_detay.png)
+
+### Odalar
+![Odalar](./assets/odalar.png)
+
+### Onay Mesajı
+![Onay Mesajı](./assets/onay_mesaji.png)
+
+### Profil
+![Profil](./assets/profil.png)
+
+
 ## 🧑‍💻 Geliştirici
 
 **Onur Kılınç**
