@@ -28,7 +28,7 @@ Bu proje, bir otel sitesi için geliştirilmiş rezervasyon sistemidir. Kullanı
 ![Veritabanı](./assets/veritabanı.png)
 
 ### Güncelleme
-![Güncelleme](./assets/guncelleme.png)
+![Güncelleme](./assets/güncelleme.png)
 
 ### Login
 ![Login](./assets/login.png)
